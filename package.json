@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "readline-sync": "^1.2.19",
-    "restler": "https://github.com/kundaiAtPropertyMe/restler"
+    "restler": "git+ssh://git@github.com:MBing/grunt-confluence-attachments.git"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
