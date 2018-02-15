@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "readline-sync": "^1.2.19",
-    "restler": "^3.3.0"
+    "restler": "https://github.com/kundaiAtPropertyMe/restler"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
